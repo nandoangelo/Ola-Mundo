@@ -9,3 +9,6 @@
 * Meu perfil no [Instagram](https://instagram.com/nandoangelo)
 * Meu canal no [YouTube](https://youtube.com/nandoangelo)
 * Meus repositórios no [GitHub](https://github.com/nandoangelo?tab=repositories)
+---
+## Testando a Linguagem Markdown
+Não se assuste com o que vem a seguir. Irei realizar alguns testes com a Linguagem Markdown para formatar melhor meus próximos arquivos. Ok?
