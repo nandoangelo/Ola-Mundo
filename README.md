@@ -4,6 +4,7 @@
  Não deixe de me seguir para ver o que vem por aí.
 
  Um abraço!
+ 
  Nando Angelo
 
 * Meu perfil no [Instagram](https://instagram.com/nandoangelo)
@@ -12,3 +13,34 @@
 ---
 ## Testando a Linguagem Markdown
 Não se assuste com o que vem a seguir. Irei realizar alguns testes com a Linguagem Markdown para formatar melhor meus próximos arquivos. Ok?
+
+### Formatação de texto
+**Negrito**
+
+*Itálico*
+
+~~Tachado~~
+
+Combinando **_Negrito e Itálico_**
+
+### Listas Simples
+* Item 1
+* Item 2
+* Item 3
+   * Subitem
+* Item 4
+
+### Listas Ordenadas
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Subitem
+1. Item 4
+
+### Lista de Tarefas
+- [x] Criar página principal
+- [ ] Criar página de contato
+- [ ] Otimizar CSS
+- [ ] Testar JS
+- [ ] Finalizar projeto
+- [ ] Publicar
