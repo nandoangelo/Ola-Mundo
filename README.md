@@ -60,7 +60,8 @@ Nº | Nome | Nota
 03 | Erika Angelo | 6.5
 04 | Henrique Brum | 8.0
 05 | Deborah Brum | 7.0
-06 | Paula Lima | 6.8
+06 | Paula Soares | 6.8
+07 | Saitama Genos | 8.5
 
 ### Comandos
 Confira o comando `alert('Funcionou!')`
