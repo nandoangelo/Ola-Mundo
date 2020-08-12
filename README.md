@@ -66,7 +66,7 @@ Nº | Nome | Nota
 Confira o comando `alert('Funcionou!')`
 
 ### Trecho de Código
-```
+```python
 print('Informe a sua data de nascimento:')
 
 dia = input('Informe o dia = ')
@@ -77,8 +77,17 @@ ano = input('Informe o ano = ')
 print(f'Você nasceu em {dia} do {mes} de {ano}')
 ```
 
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
 ### Usando Imagens
 ![Dúvida de Python](https://user-images.githubusercontent.com/4001408/90031808-0d062b00-dc94-11ea-9720-01421a28c87c.png)
+
 _Imagem enviada por meio do Attach do GitHub_
 
 ### Usando Emojis
