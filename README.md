@@ -12,7 +12,14 @@
 * Meus repositórios no [GitHub](https://github.com/nandoangelo?tab=repositories)
 ---
 ## Testando a Linguagem Markdown
-Não se assuste com o que vem a seguir. Irei realizar alguns testes com a Linguagem Markdown para formatar melhor meus próximos arquivos. Ok?
+Não se assuste com o que vem a seguir. Irei realizar alguns testes com a [Linguagem Markdown](https://guides.github.com/features/mastering-markdown) para formatar melhor meus próximos arquivos. Ok?
+
+# Título 1
+## Título 2
+### Título 3
+#### Título 4
+##### Título 5
+###### Título 6
 
 ### Formatação de texto
 **Negrito**
@@ -44,3 +51,41 @@ Combinando **_Negrito e Itálico_**
 - [ ] Testar JS
 - [ ] Finalizar projeto
 - [ ] Publicar
+
+### Tabelas
+Nº | Nome | Nota
+---|---|---
+01 | Fernando Angelo | 9.5
+02 | Judite Gunkel | 10.0
+03 | Erika Angelo | 6.5
+04 | Henrique Brum | 8.0
+05 | Deborah Brum | 7.0
+06 | Paula Lima | 6.8
+
+### Comandos
+Confira o comando `alert('Funcionou!')`
+
+### Trecho de Código
+```
+print('Informe a sua data de nascimento:')
+
+dia = input('Informe o dia = ')
+mes = input('Informe o mês = ')
+ano = input('Informe o ano = ')
+
+# Usando "fStrings"
+print(f'Você nasceu em {dia} do {mes} de {ano}')
+```
+
+### Usando Imagens
+![Dúvida de Python](https://user-images.githubusercontent.com/4001408/90031808-0d062b00-dc94-11ea-9720-01421a28c87c.png)
+_Imagem enviada por meio do Attach do GitHub_
+
+### Usando Emojis
+Olá, Penquenos Gafanhotos! :smile: 
+Veja os emojis possíveis [aqui](https://github.com/ikatyang/emoji-cheat-sheet)
+
+### Citação
+Como diria @gafanhotos
+> We're living the future so
+> the present is our past.
