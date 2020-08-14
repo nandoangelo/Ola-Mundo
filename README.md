@@ -6,9 +6,9 @@
  Um abraço!  
  Nando Angelo
 
-* Meu perfil no [Instagram](https://instagram.com/nandoangelo)
-* Meu canal no [YouTube](https://youtube.com/nandoangelo)
-* Meus repositórios no [GitHub](https://github.com/nandoangelo?tab=repositories)
+* Meu perfil no [Instagram](https://instagram.com/nandoangelo "Acompanhe")
+* Meu canal no [YouTube](https://youtube.com/nandoangelo "Inscreva-se")
+* Meus repositórios no [GitHub](https://github.com/nandoangelo?tab=repositories "Siga")
 ---
 ## Testando a Linguagem Markdown
 Não se assuste com o que vem a seguir. Irei realizar alguns testes com a [Linguagem Markdown](https://guides.github.com/features/mastering-markdown) para formatar melhor meus próximos arquivos. Ok?
@@ -92,13 +92,13 @@ function fancyAlert(arg) {
 ```
 
 ### Usando Imagens
-![Dúvida de Python](https://user-images.githubusercontent.com/4001408/90031808-0d062b00-dc94-11ea-9720-01421a28c87c.png)
+![Dúvida de Python](https://user-images.githubusercontent.com/4001408/90031808-0d062b00-dc94-11ea-9720-01421a28c87c.png "Botei um título")
 
 _Imagem enviada por meio do Attach do GitHub_
 
 ### Usando Emojis
 Olá, Penquenos Gafanhotos! :smile: 
-Veja os emojis possíveis [aqui](https://github.com/ikatyang/emoji-cheat-sheet)
+Veja os emojis possíveis [aqui](https://github.com/ikatyang/emoji-cheat-sheet "Mais emojis")
 
 ### Citação
 Como diria @gafanhotos
