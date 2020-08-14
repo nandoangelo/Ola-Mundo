@@ -1,10 +1,9 @@
 # Olá, Mundo!
- Criei este primeiro repositótrio como exemplo do [Curso de Git e GitHub](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA) do professor Gustavo Guanabara.
+ Criei este primeiro repositótrio como exemplo do [Curso de Git e GitHub](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA) do professor Gustavo Guanabara.  
  O objetivo consiste em melhorar minhas habilidades e dar mais atenção ao meu perfil no GitHub. Então...
  Não deixe de me seguir para ver o que vem por aí.
 
- Um abraço!
- 
+ Um abraço!  
  Nando Angelo
 
 * Meu perfil no [Instagram](https://instagram.com/nandoangelo)
@@ -24,10 +23,8 @@ Não se assuste com o que vem a seguir. Irei realizar alguns testes com a [Lingu
 ### Formatação de texto
 **Negrito**
 
-*Itálico*
-
-~~Tachado~~
-
+*Itálico*  
+~~Tachado~~  
 Combinando **_Negrito e Itálico_**
 
 ### Listas Simples
