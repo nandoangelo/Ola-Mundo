@@ -21,8 +21,7 @@ Não se assuste com o que vem a seguir. Irei realizar alguns testes com a [Lingu
 ###### Título 6
 
 ### Formatação de texto
-**Negrito**
-
+**Negrito**  
 *Itálico*  
 ~~Tachado~~  
 Combinando **_Negrito e Itálico_**
@@ -59,6 +58,15 @@ Nº | Nome | Nota
 05 | Deborah Brum | 7.0
 06 | Paula Soares | 6.8
 07 | Saitama Genos | 8.5
+
+#### Tabela alinhada e com formatação 
+| Esquerda | Meio | Direita |
+| :--- | :---: | ---: |
+| Estou à esquerda | Estou no meio | Estou à direita |
+| *left* | ~~middle~~ | **right** |
+| desse lado | centro | do outro lado |
+| `align: left;` | `align: center;` | `align: right;` |
+| ```text-align: left;``` | ```text-align: center;``` | ```text-align: right;``` |
 
 ### Comandos
 Confira o comando `alert('Funcionou!')`
