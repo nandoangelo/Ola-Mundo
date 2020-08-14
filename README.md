@@ -105,6 +105,3 @@ Como diria @gafanhotos
 > We're living the future so
 > the present is our past.
 
-### Notas de rodapé
-A correta configuração do DHCP [^dhcp] permite que o usuário...   
-[^dhcp]: DHCP, Dynamic Host Configuration Protocol (Protocolo de configuração de host dinâmico), é um protocolo de serviço TCP/IP...
