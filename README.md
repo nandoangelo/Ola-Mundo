@@ -104,3 +104,7 @@ Veja os emojis possíveis [aqui](https://github.com/ikatyang/emoji-cheat-sheet)
 Como diria @gafanhotos
 > We're living the future so
 > the present is our past.
+
+### Notas de rodapé  
+A correta configuração do DHCP [^1] permite que o usuário...
+[^1]: DHCP, Dynamic Host Configuration Protocol (Protocolo de configuração de host dinâmico), é um protocolo de serviço TCP/IP...
